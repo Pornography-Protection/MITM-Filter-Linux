@@ -25,7 +25,7 @@
 *«Then desire when it has conceived gives birth to sin; and sin when it is full-grown brings forth death. .» (James 1:15)*
 
 ### About:
-- This is the most effective method of blocking pornography that I have ever achieved (word origin: porneia πορνεία, meaning "prostitution", _britannica_ definition).
+- MITM (man-in-the-middle) pornography blocking mechanism (word origin: porneia πορνεία, meaning "prostitution", _britannica_ definition).
 - The best way not to commit evil, is to avoid it, to stay far from it, and to make it difficult to reach.
 - It forces all http/https traffic to pass through a proxy, which acts as a firewall filter. It can be used to protect your family, or to rid yourself from addiction.
 - e2guardian project is forked from https://github.com/e2guardian/e2guardian
