@@ -1,28 +1,4 @@
-<img src="SatanLovesPrn.png" alt="SatanLovesPrn" width="1000" />
-
 # A very effective firewall filter for Linux to block pornography
-
-*Lust is one of the seven cardinal vices.*
-
-*«If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.» (Matthew 5:29-30)*
-
-*«And Jesus entered the temple of God and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, “It is written, ‘My house shall be called a house of prayer’; but you make it a den of robbers.”» (Matthew 21:12-13) Our bodies need to be cleansed of sin, as they are temples of the Holy Spirit.*
-
-*«Anyone who looks at a woman to lust after her has already committed adultery with her in his heart.» (Matthew 5:28)*
-
-*«You shall not covet your neighbor’s wife.» (Deuteronomy 5:21)*
-
-*«Submit yourselves, then, to God. Resist the devil, and he will flee from you.» (James 4:7)*
-
-*«But each one is tempted when by his own evil desires he is lured away and enticed.» (James 1:14)*
-
-*«Put on the full armor of God, so that you can take your stand against the devil’s schemes.» (Ephesians 6:11)*
-
-*«But I pommel my body and subdue it, lest after preaching to others I myself should be disqualified.» (1 Corinthians 9:27)*
-
-*«But I say, walk by the spirit, and do not gratify the desires of the flesh.» (Galatians 5:16)*
-
-*«Then desire when it has conceived gives birth to sin; and sin when it is full-grown brings forth death. .» (James 1:15)*
 
 ### About:
 - MITM (man-in-the-middle) pornography blocking mechanism (word origin: porneia πορνεία, meaning "prostitution", _britannica_ definition).
@@ -35,13 +11,6 @@
 - Blocking 3 letter words is dangerous; as it breaks youtube silently
 - Advantage over squid: SSL url regex replacement.
 - difference between blocking using hosts file and bannedsitelist is that the websites on bannedsitelist block included subdomains. whereas on hosts file, it blocks only the specified domain only. EXCELLENT!
-
-### Articles:
-https://fightthenewdrug.org/why-porn-can-be-difficult-to-quit/
-
-https://www.thecatholicthing.org/2021/11/30/pornography-and-the-castration-of-young-men/
-
-https://www.thecatholicthing.org/2018/06/25/satan-loves-porn/
 
 ## How to setup:
 *1. Build e2guardian from source according to the instructions below*
